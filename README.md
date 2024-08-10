@@ -24,7 +24,7 @@ I was tasked to:
 ### Marketing Insights
 
 For profit leveraging:
-..* Target high earning, middle aged people without children.
++ Target high earning, middle aged people without children.
 
 For attracting new customers:
-..* Focus more on age groups 21-30 and 70+, since these groups statistically accepted campaigns at a higher rate.
++ Focus more on age groups 21-30 and 70+, since these groups statistically accepted campaigns at a higher rate.
